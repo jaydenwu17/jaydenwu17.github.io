@@ -18,9 +18,8 @@ I am a Ph.D student (Spring 2019-) at [Laboratory for Computational Sensing and 
 **2019/08**-Our paper on vision system for malaria vaccine automation is accepted to CASE 2019.
 
 # Selected Publication
-* Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body 
-  
-  Internation Conference on Robotics and Automation (ICRA) 2020
+* Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
+  Internation Conference on Robotics and Automation (ICRA) 2020 <br />
   [[paper](https://arxiv.org/abs/1909.07572)]
  
 
