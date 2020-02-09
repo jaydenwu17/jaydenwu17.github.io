@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Hongtao Wu
 
-You can use the [editor on GitHub](https://github.com/jaydenwu17/jaydenwu17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D student (Spring 2019-) of Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University. My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My research focuses on integrating human-like cogintion for robot. I am interested in robot perception, reinforcement learning, and motion planning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email]()
 
-### Markdown
+### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jan 2020
 
 ```markdown
 Syntax highlighted code block
