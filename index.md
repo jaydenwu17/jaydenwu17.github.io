@@ -19,13 +19,14 @@ I am a Ph.D student (Spring 2019-) at [Laboratory for Computational Sensing and 
 
 # Selected Publication
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
-  Internation Conference on Robotics and Automation (ICRA) 2020 <br />
+  **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
+  *Internation Conference on Robotics and Automation (ICRA) 2020 <br />
   [[paper](https://arxiv.org/abs/1909.07572)]
  
 
-* Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production
-  
-  IEEE International Conference on Automation Science and Engineering (CASE) 2019 
+* Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production <br />
+  **Hongtao Wu**, Jiteng Mu, Ting Da, Mengdi Xu, Russell H. Taylor, Iulian Iordachita, Gregory S. Chirikjian <br />
+  *IEEE International Conference on Automation Science and Engineering (CASE) 2019 <br />
   [[paper](https://ieeexplore.ieee.org/abstract/document/8842953)]
 
 # More will be available soon!
