@@ -1,7 +1,7 @@
 ## About
 I am a Ph.D student (Spring 2019-) of [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My research focuses on integrating human-like cogintion for robot. I am interested in robot perception, reinforcement learning, and motion planning.
 
-[Email](mailto:hwu67@jhu.edu) (hwu67 at jhu dot edu)
+[Email](mailto:hwu67@jhu.edu) (hwu67 at jhu dot edu) 
 [Google Scholar](https://scholar.google.com/citations?user=7u0TYgIAAAAJ&hl=en)  
 [Linkedin](https://www.linkedin.com/me/profile-views/urn:li:wvmp:summary/)  
 [Github](https://github.com/jaydenwu17)
