@@ -9,17 +9,17 @@ I am a Ph.D student (Spring 2019-) at [Laboratory for Computational Sensing and 
 
 
 # News
-**2020/02** I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
+**2020/02**-I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
-**2020/01** Our paper on chair imagination has been accepted by ICRA 2020.
+**2020/01**-Our paper on chair imagination has been accepted by ICRA 2020.
 
-**2019/09** I passed my Department Qualifying Examination (DQE).
+**2019/09**-I passed my Department Qualifying Examination (DQE).
 
-**2019/08** Our paper on vision system for malaria vaccine automation is accepted to CASE 2019.
+**2019/08**-Our paper on vision system for malaria vaccine automation is accepted to CASE 2019.
 
 # Selected Publication
-Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body [[paper](https://arxiv.org/abs/1909.07572)]
+*Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body [[paper](https://arxiv.org/abs/1909.07572)]
 
-Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production [[paper](https://ieeexplore.ieee.org/abstract/document/8842953)]
+*Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production [[paper](https://ieeexplore.ieee.org/abstract/document/8842953)]
 
 # More will be available soon!
