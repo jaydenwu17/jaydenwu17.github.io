@@ -20,7 +20,7 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
 # Selected Publication
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
-  *IEEE Internation Conference on Robotics and Automation (ICRA) 2020* <br />
+  *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
   [[arxiv](https://arxiv.org/abs/1909.07572)] [paper] [website] [data]
  
 
