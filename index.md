@@ -11,11 +11,11 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
 # News
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
-**2020/01**--Our paper on robot imagination of chair affordance has been accepted by ICRA 2020.
+**2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
 
 **2019/09**--I passed my Department Qualifying Examination (DQE).
 
-**2019/08**--Our paper on vision system for malaria vaccine automation is accepted to CASE 2019.
+**2019/08**--Our paper on vision system for malaria vaccine automation has been accepted to CASE 2019.
 
 # Selected Publication
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
@@ -29,4 +29,4 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
   *IEEE International Conference on Automation Science and Engineering (CASE) 2019* <br />
   [[paper](https://ieeexplore.ieee.org/abstract/document/8842953)]
 
-# More will be available soon!
+# More is coming soon!
