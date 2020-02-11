@@ -5,7 +5,7 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
 
 [Google Scholar](https://scholar.google.com/citations?user=7u0TYgIAAAAJ&hl=en)  
 [Linkedin](https://www.linkedin.com/in/hongtao-wu-10614ba0/)  
-[Github](https://github.com/jaydenwu17)
+[Github](https://github.com/hongtaowu67)
 
 
 # News
