@@ -18,6 +18,9 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
 **2019/08**--Our paper on vision system for malaria vaccine automation has been accepted to CASE 2019.
 
 # Selected Publication
+* "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
+  Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
+  [[arxiv](https://arxiv.org/abs/1909.11730)]
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
