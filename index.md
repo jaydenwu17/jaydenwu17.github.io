@@ -13,7 +13,7 @@ I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic 
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
 
-**2019/09**--I passed my Department Qualifying Examination (DQE).
+**2019/09**--I passed my Departmental Qualifying Examination (DQE).
 
 **2019/08**--Our paper on vision system for malaria vaccine automation has been accepted to CASE 2019.
 
