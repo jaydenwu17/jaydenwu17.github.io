@@ -1,5 +1,5 @@
 # About
-I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My primary research interests are on robot perception, reinforcement learning, and motion planning.
+I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My primary research interests are on robot perception, reinforcement learning, and robot manipulation.
 
 [Email](mailto:hwu67@jhu.edu) (hwu67 at jhu dot edu)
 
@@ -21,11 +21,11 @@ CV is Coming soon! <br />
 # Selected Publication
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
-  [[arxiv](https://arxiv.org/abs/1909.11730)]
+  [[arxiv](https://arxiv.org/abs/1909.11730)] [[code](https://github.com/jhu-lcsr/real_good_robot)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)]
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
-  [[arxiv](https://arxiv.org/abs/1909.07572)] [paper] [[project](https://chirikjianlab.github.io/chairimagination/)] [data]
+  [[arxiv](https://arxiv.org/abs/1909.07572)] [paper] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)] [data]
  
 
 * Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production <br />
