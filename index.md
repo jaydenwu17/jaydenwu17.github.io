@@ -1,5 +1,5 @@
 # About
-I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My primary research interests are on robot perception, reinforcement learning, and robot manipulation.
+I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). My primary research interests are on robot perception, simulation, and robot learning.
 
 [Email](mailto:hwu67@jhu.edu) (hwu67 at jhu dot edu)
 
