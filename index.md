@@ -10,6 +10,7 @@ CV is Coming soon! <br />
 
 
 # News
+**2020/07**--Our paper on efficient reinforcement learning has been accepted to RA-L and IROS 2020.
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
@@ -21,7 +22,7 @@ CV is Coming soon! <br />
 # Selected Publication
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
-  *Accepted to IROS 2020* <br />
+  *Accepted to RA-L and IROS 2020* <br />
   [[arxiv](https://arxiv.org/abs/1909.11730)] [[code](https://github.com/jhu-lcsr/good_robot)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)]
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
