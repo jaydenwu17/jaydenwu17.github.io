@@ -21,6 +21,9 @@ CV is Coming soon! <br />
 **2019/08**--Our paper on vision system for malaria vaccine automation has been accepted to CASE 2019.
 
 # Selected Publication
+* Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
+  Hongtao Wu, Greogry S. Chirikjian <br />
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
   *Accepted to RA-L and IROS 2020* <br />
