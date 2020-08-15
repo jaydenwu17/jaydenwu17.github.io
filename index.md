@@ -24,15 +24,16 @@ CV is Coming soon! <br />
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   Hongtao Wu, Greogry S. Chirikjian <br />
   [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
+  
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
   *Accepted to RA-L and IROS 2020* <br />
   [[arxiv](https://arxiv.org/abs/1909.11730)] [[code](https://github.com/jhu-lcsr/good_robot)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)]
+  
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
   [[arxiv](https://arxiv.org/abs/1909.07572)] [paper] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)] [data]
- 
 
 * Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production <br />
   **Hongtao Wu**, Jiteng Mu, Ting Da, Mengdi Xu, Russell H. Taylor, Iulian Iordachita, Gregory S. Chirikjian <br />
