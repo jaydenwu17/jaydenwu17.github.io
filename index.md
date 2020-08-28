@@ -23,12 +23,12 @@ https://ieeexplore.ieee.org/document/9165109
 # Selected Publication
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
-  [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[paper](https://ieeexplore.ieee.org/document/9165109)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
   *Accepted to RA-L and IROS 2020* <br />
-  [[arxiv](https://arxiv.org/abs/1909.11730)] [[code](https://github.com/jhu-lcsr/good_robot)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)]
+  [[arxiv](https://arxiv.org/abs/1909.11730)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)] [[paper](https://ieeexplore.ieee.org/document/9165109)] [[code](https://github.com/jhu-lcsr/good_robot)]
   
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
