@@ -11,7 +11,7 @@ CV is coming soon! <br />
 
 # News
 **2020/07**--Our paper on efficient reinforcement learning has been accepted to RA-L and IROS 2020.
-
+https://ieeexplore.ieee.org/document/9165109
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
@@ -23,7 +23,7 @@ CV is coming soon! <br />
 # Selected Publication
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
-  [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[paper](https://ieeexplore.ieee.org/document/9165109)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
