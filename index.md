@@ -10,8 +10,8 @@ CV is coming soon! <br />
 
 
 # News
-**2020/07**--Our paper on efficient reinforcement learning has been accepted to RA-L and IROS 2020.
-https://ieeexplore.ieee.org/document/9165109
+**2020/07**--Our paper on efficient reinforcement learning has been accepted to RA-L and IROS 2020. https://ieeexplore.ieee.org/document/9165109
+
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
