@@ -28,7 +28,7 @@ CV is coming soon! <br />
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br /> 
-  *IROS 2020* <br />
+  *IEEE International Conference on Intelligent Robots and Systems (IROS) 2020* <br />
   [[arxiv](https://arxiv.org/abs/1909.11730)] [[video](https://www.youtube.com/watch?v=QHNkghXCmY0&feature=youtu.be)] [[paper](https://ieeexplore.ieee.org/document/9165109)] [[code](https://github.com/jhu-lcsr/good_robot)]
   
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
