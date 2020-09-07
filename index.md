@@ -1,5 +1,5 @@
 # About
-I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). Previously, I obtained my B.Eng from Beihang University in 2017 and M.S.E from Laboratory for Computational Sensing and Robotics, Johns Hopkins University in 2019.
+I am a 2nd-year Ph.D student (Spring 2019-) at the [Robot and Protein Kinematic Lab](https://rpk.lcsr.jhu.edu/), [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). My advisor is Prof. [Gregory S. Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/). Previously, I obtained my B.Eng in Power Engineering from Beihang University in 2017 and M.S.E in Robotics from Johns Hopkins University in 2019.
 
 My primary research interests are on robot perception, simulation, object affordance, and robot learning.
 
