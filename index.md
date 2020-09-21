@@ -16,7 +16,7 @@ CV is coming soon! <br />
 
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
-**2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020.
+**2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link: https://ieeexplore.ieee.org/document/9197384
 
 **2019/09**--I passed my Departmental Qualifying Examination (DQE).
 
@@ -36,7 +36,7 @@ CV is coming soon! <br />
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
-  [[arxiv](https://arxiv.org/abs/1909.07572)] [paper] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)] [data]
+  [[arxiv](https://arxiv.org/abs/1909.07572)] [[paper](https://ieeexplore.ieee.org/document/9197384)] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)] [data]
 
 * Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production <br />
   **Hongtao Wu**, Jiteng Mu, Ting Da, Mengdi Xu, Russell H. Taylor, Iulian Iordachita, Gregory S. Chirikjian <br />
