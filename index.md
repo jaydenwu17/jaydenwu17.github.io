@@ -16,7 +16,7 @@ CV is coming soon! <br />
 
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
 
-**2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link [here] (https://ieeexplore.ieee.org/document/9197384).
+**2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link [here](https://ieeexplore.ieee.org/document/9197384).
 
 **2019/09**--I passed my Departmental Qualifying Examination (DQE).
 
