@@ -25,6 +25,7 @@ CV is coming soon! <br />
 # Selected Publication
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
+  *Accepted to IEEE International Robotics and Automation Letter (RA-L)* <br />
   [[arxiv](https://arxiv.org/abs/2008.02321)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
