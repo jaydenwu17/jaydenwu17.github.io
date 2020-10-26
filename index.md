@@ -12,6 +12,8 @@ CV is coming soon! <br />
 
 
 # News
+**2020/10**--Our paper on efficient reinforcement learning is featured on [JHU HUB](https://hub.jhu.edu/2020/10/26/positive-reinforcement-for-robots/). Check it out!
+
 **2020/07**--Our paper on efficient reinforcement learning has been accepted to RA-L and IROS 2020. Paper link [here](https://ieeexplore.ieee.org/document/9165109).
 
 **2020/02**--I passed my [Graduate Board Oral (GBO) examination](https://homewoodgrad.jhu.edu/academics/graduate-board/graduate-board-oral-exams/).
