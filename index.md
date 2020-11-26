@@ -30,7 +30,7 @@ CV is coming soon! <br />
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *Accepted to IEEE International Robotics and Automation Letter (RA-L)* <br />
-  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://www.jiqizhixin.com/articles/2020-11-16-6)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
