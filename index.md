@@ -30,6 +30,7 @@ CV is coming soon! <br />
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br />
+  *IEEE International Conference on Robotics and Automation (ICRA) 2021* <br />
   [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
