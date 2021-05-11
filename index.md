@@ -22,14 +22,17 @@ CV is coming soon! <br />
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link [here](https://ieeexplore.ieee.org/document/9197384).
 
-# Pre-print
-\* indicates equal contribution
+# Publications
+\* indicates equal contribution.
 
+## Pre-print
+------
 * LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration <br />
  Weixiao Liu*, **Hongtao Wu***, Greogry S. Chirikjian <br />
  [[arxiv](https://arxiv.org/abs/2103.15039)]
  
-# Publications
+## Journals & Conferences
+------
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br />
