@@ -23,7 +23,7 @@ CV is coming soon! <br />
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link [here](https://ieeexplore.ieee.org/document/9197384).
 
 # Pre-print
- * indicates equal contribution
+\* indicates equal contribution
 
 * LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration <br />
  Weixiao Liu*, **Hongtao Wu***, Greogry S. Chirikjian <br />
