@@ -12,7 +12,7 @@ CV is coming soon! <br />
 
 
 # News
-**2020/11**--Our paper on robot imagination of containability affordance has been accepted to RA-L! Paper link [here](https://ieeexplore.ieee.org/document/9269438).
+**2020/11**--Our paper on robot imagination of containability affordance has been accepted to RA-L! Paper link [here](https://ieeexplore.ieee.org/document/9269438). Code is available [here](https://github.com/hongtaowu67/container_imagine). Data can be download from [here](https://www.dropbox.com/s/fpnxhigttq06w1w/contain_imagine_data_RAL2021.zip?dl=0).
 
 **2020/10**--Our paper on efficient reinforcement learning is featured on [JHU HUB](https://hub.jhu.edu/2020/10/26/positive-reinforcement-for-robots/). Check it out!
 
@@ -22,16 +22,12 @@ CV is coming soon! <br />
 
 **2020/01**--Our paper on robot imagination of chair affordance has been accepted to ICRA 2020. Paper link [here](https://ieeexplore.ieee.org/document/9197384).
 
-**2019/09**--I passed my Departmental Qualifying Examination (DQE).
-
-**2019/08**--Our paper on vision system for malaria vaccine automation has been accepted to CASE 2019.
-
 # Selected Publication
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2021* <br />
-  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)]
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)] [[code](https://github.com/hongtaowu67/container_imagine)] [[Data](https://www.dropbox.com/s/fpnxhigttq06w1w/contain_imagine_data_RAL2021.zip?dl=0)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
