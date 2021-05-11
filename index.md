@@ -27,7 +27,7 @@ CV is coming soon! <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2021* <br />
-  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)] [[code](https://github.com/hongtaowu67/container_imagine)] [[Data](https://www.dropbox.com/s/fpnxhigttq06w1w/contain_imagine_data_RAL2021.zip?dl=0)]
+  [[arxiv](https://arxiv.org/abs/2008.02321)] [[paper](https://ieeexplore.ieee.org/document/9269438)] [[video](https://www.youtube.com/watch?v=n6dGRaLTv88&feature=emb_title)] [[project](https://chirikjianlab.github.io/realcontainerimagination/)] [[code](https://github.com/hongtaowu67/container_imagine)] [[data](https://www.dropbox.com/s/fpnxhigttq06w1w/contain_imagine_data_RAL2021.zip?dl=0)]
   
 * "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer <br />
   Andrew Hundt, Benjamin Killeen, Nicholas Greene, **Hongtao Wu**, Heeyeon Kwon, Chris Paxton, Gregory D. Hager <br />
@@ -38,7 +38,7 @@ CV is coming soon! <br />
 * Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body <br />
   **Hongtao Wu**, Deven Misra, Gregory S. Chirikjian <br />
   *IEEE International Conference on Robotics and Automation (ICRA) 2020* <br />
-  [[arxiv](https://arxiv.org/abs/1909.07572)] [[paper](https://ieeexplore.ieee.org/document/9197384)] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)] [data]
+  [[arxiv](https://arxiv.org/abs/1909.07572)] [[paper](https://ieeexplore.ieee.org/document/9197384)] [[project](https://chirikjianlab.github.io/chairimagination/)] [[video](https://www.youtube.com/watch?v=M0FgZuivz6o&feature=emb_title)]
 
 * Multi-mosquito object detection and 2D pose estimation for automation of PfSPZ malaria vaccine production <br />
   **Hongtao Wu**, Jiteng Mu, Ting Da, Mengdi Xu, Russell H. Taylor, Iulian Iordachita, Gregory S. Chirikjian <br />
