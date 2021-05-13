@@ -25,12 +25,14 @@ CV is coming soon! <br />
 # Publications
 \* indicates equal contribution.
 
-## Pre-print
+### Pre-print
+------
 * LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration <br />
  Weixiao Liu\*, **Hongtao Wu\***, Greogry S. Chirikjian <br />
  [[arxiv](https://arxiv.org/abs/2103.15039)]
  
-## Journals & Conferences
+### Journals & Conferences
+------
 * Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations <br />
   **Hongtao Wu**, Greogry S. Chirikjian <br />
   *IEEE Robotics and Automation Letter (RA-L)* <br />
